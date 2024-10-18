@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript(not that easy).
 - 📫 You can reach me on Linkedin.
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: My favorite animals are cats and octopuses. My favorite book is Project Hail Mary by ANdy Weir( A MUST!!!) and my favorite anime is One Piece.
+- ⚡ Fun fact: My favorite animals are cats and octopuses. My favorite book is Project Hail Mary by ANdy Weir( A MUST READ!!!) and my favorite anime is One Piece.
 
 
 <!---
