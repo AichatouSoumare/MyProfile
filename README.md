@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Zaza-Monkey
-- 👀 I’m interested in web developpement and the technology industry.
+- 👀 I’m interested in web developpement 
 - 🌱 I’m currently learning JavaScript(not that easy).
 - 📫 You can reach me on Linkedin.
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: My favorite animals are cats and octopuses. My favorite book is Project Hail Mary by ANdy Weir( A MUST READ!!!) and my favorite anime is One Piece.
+- ⚡ Fun fact: My favorite animals are cats and octopuses. My favorite book is Project Hail Mary by Andy Weir( A MUST READ!!!) and my favorite anime is One Piece.
 
 
 <!---
