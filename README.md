@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zaza-Monkey
+- 👋 Hi, I’m @Aichatou Soumaré.
 - 👀 I’m interested in web developpement 
 - 🌱 I’m currently learning JavaScript(not that easy).
 - 📫 You can reach me on Linkedin.
